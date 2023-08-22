@@ -1,0 +1,14 @@
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\TA28_3_sgallego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\TA28_3_sgallego.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\TA28_3_sgallego.AssemblyInfo.cs
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\TA28_3_sgallego.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\bin\Debug\net6.0\TA28_3_sgallego.exe
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\bin\Debug\net6.0\TA28_3_sgallego.deps.json
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\bin\Debug\net6.0\TA28_3_sgallego.runtimeconfig.json
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\bin\Debug\net6.0\TA28_3_sgallego.dll
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\bin\Debug\net6.0\TA28_3_sgallego.pdb
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\TA28_3_sgallego.dll
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\refint\TA28_3_sgallego.dll
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\TA28_3_sgallego.pdb
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\TA28_3_sgallego.genruntimeconfig.cache
+C:\Users\sergi\source\repos\TA28_3_sgallego\TA28_3_sgallego\obj\Debug\net6.0\ref\TA28_3_sgallego.dll
